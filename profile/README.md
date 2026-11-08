@@ -20,7 +20,7 @@ Website: **[nirah.co](https://nirah.co/)** · Support: [nirah.co/legal/support](
 Flutter and Flame for the apps, Firebase for backends, React and Astro for the web.
 Most of our code is private. What we have open-sourced:
 
-- [arabic_rtl_kit](https://github.com/nirah-digital/arabic_rtl_kit) — Arabic digits, plurals, auto text direction and mirrored icons for Flutter
+- [arabic_rtl_kit](https://pub.dev/packages/arabic_rtl_kit) ([source](https://github.com/nirah-digital/arabic_rtl_kit)) — Arabic digits, plurals, auto text direction and mirrored icons for Flutter
 - [flame_game_template](https://github.com/nirah-digital/flame_game_template) — starter for Flutter + Flame games with an English/Arabic UI
 - [horizon-field-guide](https://github.com/nirah-digital/horizon-field-guide) — the Horizon field guide site (Astro)
 
