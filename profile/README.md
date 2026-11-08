@@ -1,4 +1,4 @@
-# Nirah Digital · نيراح ديجيتال
+# Nirah Digital · نيره ديجيتال
 
 Arabic-first apps and games for iOS and Android, made in Saudi Arabia.
 Website: **[nirah.co](https://nirah.co/)** · Support: [nirah.co/legal/support](https://nirah.co/legal/support)
