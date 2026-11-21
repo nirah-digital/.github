@@ -23,6 +23,9 @@ Most of our code is private. What we have open-sourced:
 - [arabic_rtl_kit](https://pub.dev/packages/arabic_rtl_kit) ([source](https://github.com/nirah-digital/arabic_rtl_kit)) — Arabic digits, plurals, auto text direction and mirrored icons for Flutter
 - [flame_game_template](https://github.com/nirah-digital/flame_game_template) — starter for Flutter + Flame games with an English/Arabic UI
 - [horizon-field-guide](https://github.com/nirah-digital/horizon-field-guide) — the Horizon field guide site (Astro)
+- [foldable_layout](https://github.com/nirah-digital/foldable_layout) — adaptive Flutter layouts for the iPhone Duo, foldables, iPads and tablets
+- [arabic_fuzzy_search](https://github.com/nirah-digital/arabic_fuzzy_search) — spelling-tolerant Arabic search: normalization, diacritics, typos, highlighting
+- [saudi_validators](https://github.com/nirah-digital/saudi_validators) — offline format checks for Saudi mobile numbers, IBAN, National ID/Iqama, VAT and addresses
 - [arabic-fusha-words](https://github.com/nirah-digital/arabic-fusha-words) — open data: 6,247 curated Arabic Fusha words with meanings (CC BY 4.0)
 
 © 2026 Nirah Digital · [Privacy policy](https://nirah.co/legal/privacy)
